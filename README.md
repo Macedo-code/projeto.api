@@ -8,8 +8,13 @@
  1. Primeiro item 
  2. Segundo item 
  3. Terceiro item 
- 
+
 **Negrito**
 
- [texto do link](https://br.pinterest.com/pin/289637819806543760/)
-    
+ [people today](https://br.pinterest.com/pin/289637819806543760/)
+  
+```
+python
+ def teste():
+    print("teste")
+ ```    
